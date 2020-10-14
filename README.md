@@ -1,2 +1,2 @@
-# rt-elisa
-This repository contains code for processing the intensity of beads captured through camera in a real-time ELISA setup.
+# Continuous detection of glucose and insulin in live animals
+This repository contains code used for processing the intensity of bead images captured in the real-time ELISA setup used for the paper:
